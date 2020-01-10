@@ -7,7 +7,7 @@ Have you been looking for a way to break into the web development industry as a 
 |Hour|Topic
 |---|---|
 |10:00	|Web Development Keynote
-|10:30	|Tools Overview/Installation
+|10:30	|Setting up your environment and tools
 |11:00	|HTML/CSS Introduction
 |12:00	|Lunch
 |12:30	|Learn how to publish your work with Azure and Git
