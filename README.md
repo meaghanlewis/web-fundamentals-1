@@ -1,7 +1,8 @@
-# Web Development Fundamental 1
+# Web Development Fundamentals 1
 ___
 ## Schedule
 |Hour|Topic
+|---|---|
 |10:00	|Web Development Keynote
 |10:30	|Tools Overview/Installation
 |11:00	|HTML/CSS Introduction
