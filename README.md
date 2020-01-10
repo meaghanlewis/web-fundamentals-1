@@ -14,8 +14,8 @@ Have you been looking for a way to break into the web development industry as a 
 |1:00		|Plotting Your Blocks
 |2:00		|Capstone Project: Portfolio
 |3:45		|Wrap-up Next Steps
-## Pathways:		
-https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/		
-https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/		
-https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/		
-https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/		
+## Learning Pathways:		
+1. https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/		
+2. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/		
+3. https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/		
+4. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/		
