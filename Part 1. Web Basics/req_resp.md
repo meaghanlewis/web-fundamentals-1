@@ -16,3 +16,6 @@ Once the **server** receives the client's request, given that the server approve
 
 ![](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3935/handouts/chapter3935_7113_client-server.jpg)
 
+
+Next, we will cover what [full stack means](./full_stack.md)
+

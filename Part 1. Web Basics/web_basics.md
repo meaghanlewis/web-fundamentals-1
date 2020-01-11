@@ -34,3 +34,5 @@ It’s a name and address used by a web browser to find a web server on your com
 Localhost is the perfect tool for developers building web applications because it allows you to view your web page during the development process all the way up until it is ready for production.
 
 ![](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3935/handouts/chapter3935_7126_localhost.jpg)
+
+Next, on to learning about [the Request and Response Cycle.](./req_resp.md)
