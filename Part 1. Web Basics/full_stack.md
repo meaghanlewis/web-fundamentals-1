@@ -20,3 +20,8 @@ The Database is the final component of full stack development. The database is s
 
 ![](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3935/handouts/chapter3935_7117_database-erd.png)
 
+** Checkpoint **
+
+If you've already installed your code editor, [go ahead and move to the next section, you've completed this first part](./#). Take a break or wait for instructions from your instructor.
+
+If you still need an editor [move on to the next page here.](./environment.md).

@@ -1,5 +1,20 @@
-1. [Web Basics](./web_basics.md)
-2. [HTML/CSS Overview](./html_css.md)
-3. [Deploying to Azure with git](./deploy.md)
-4. [Plotting your Blocks](./plotting_your_blox.md)
-5. [Capstone: Portfolio](./portfolio.md)
+# Here are some of the tools you will need for today:
+
+## Code Editor (Visual Studio Code)
+
+To work with the code you will need a code editor. You are free to use any editor you like. Your instructor will use Visual Studio Code, an open source (OSS) editor from Microsoft.
+
+### Installing Visual Studio Code
+
+The [Visual Studio Code website](https://code.visualstudio.com/) will allow you to download and install Visual Studio Code.
+
+
+## Git
+
+To download the starter and solution files, you will [clone](https://help.github.com/en/articles/cloning-a-repository) a repository from [GitHub](https://github.com) using git. Git is a distributed source code management system.
+
+### Installation
+
+To install git, navigate to [Git downloads](https://git-scm.com/downloads) and follow the instructions.
+
+[Now continue on to Part 2. of the workshop.](./)
