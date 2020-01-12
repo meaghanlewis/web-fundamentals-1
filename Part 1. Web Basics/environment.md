@@ -17,4 +17,4 @@ To download the starter and solution files, you will [clone](https://help.github
 
 To install git, navigate to [Git downloads](https://git-scm.com/downloads) and follow the instructions.
 
-[Now continue on to Part 2. of the workshop.](./)
+[Now continue on to Part 2. of the workshop.](../tree/master/Part%202.%20HTML)
