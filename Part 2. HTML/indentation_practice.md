@@ -66,3 +66,5 @@ Please note that most of the tags in the code below have not been discussed yet.
     </body>
 </html>
 ```
+
+[Next, Review this activity in the next section here](./indentation_review.md)

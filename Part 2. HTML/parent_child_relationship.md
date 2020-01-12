@@ -100,3 +100,5 @@ It's not required, but it is _highly recommended_, and here are the reasons why:
 * For a quick demo, please watch the video below:
 
 At this point, you may not appreciate the significance of HTML PCSrelationship -- and that's okay. Just know that as early as the HTML course, you will be dealing with them (through properly indenting your code), but will not be directly working on them (target, and manipulate related elements via CSS and or jQuery).
+
+[Next, practice indentation on your own in this activity](./indentation_practice.md)

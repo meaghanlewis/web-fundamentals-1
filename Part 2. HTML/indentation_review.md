@@ -50,4 +50,4 @@ By analyzing our HTML, we notice that we have an opening HTML tag on our second 
 ```
 Review this code and apply the parent, sibling and child relationships to understand this content a little easier.
 
-Happy coding!
+[After you've completed this assignment go on to the next section, "Common Body Tags"](./common_body_tags.md)
