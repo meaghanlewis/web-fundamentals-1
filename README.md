@@ -23,10 +23,12 @@ Have you been looking for a way to break into the web development industry as a 
 
 This workshop can be completed online however we do suggest all participants use the [Visual Studio Code website](https://code.visualstudio.com/) to acquire a free copy of this code editor.
 
+
+---
 ## Course modules
 
-1. [Web Basics]()
-2. [HTML](./html_css.md)
-3. [CSS](./deploy.md)
-4. [Deployment](./plotting_your_blox.md)
-5. [Capstone: Portfolio](./portfolio.md)
+1. [Part 1. Web Basics](../Part%201.%20Web%20Basics)
+2. [Part 2. HTML](../Part%202.%20HTML)
+3. [Part 3. CSS](../Part%203.%20CSS%20%26%20CSS3)
+4. [Part 4. Deployment](../Part%204.%20%20Web%20Publishing)
+5. [Part 5. Capstone: Portfolio](./Part%205.%20Capstone)
