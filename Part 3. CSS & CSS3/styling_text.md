@@ -104,3 +104,4 @@ h1 span {
 ```
 To learn more about the difference between ```<div>``` and ```<span>```, you can also read: https://www.codecademy.com/en/forum_questions/502ad0ea558dfe0002026d69
 
+#### NEXT: [Using the Inspect Tool](./inspect_element.md)

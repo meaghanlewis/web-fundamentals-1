@@ -39,3 +39,5 @@ To access the colorpicker tool, we need to first open the Chrome Dev tools and s
 To use the color picker to find the values of colors on the page, click the eye dropper icon to toggle color-picker to ON (should turn blue). At this point, you can move your mouse cursor over the webpage and a small circle showing the magnified pixels near your cursor will be displayed, with the central pixel outlined and its' color value displayed on click.
 
 ![COLORPICKERWHYYOULEAVEME! :(](https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/colorpicker2.png)
+
+#### NEXT: [The Display Property](./display_property.md)

@@ -15,3 +15,5 @@ Refer back to the HTML section if you don't remember how to add a link to your `
 ### Important point:
 > **CSS uses a priority scheme to determine which style rules apply if more than one rule matches a particular element. In this scheme, priorities (or "weights")  cascade and are assigned to rules, so that the results are predictable.**
 
+#### NEXT:[CSS Selectors](./css_selectors.md)
+

@@ -137,3 +137,4 @@ When we start utilizing inline-block, we might notice that the vertical position
 
 ![](https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/verticalalign.png)
 
+#### NEXT: [Box Model](./box_model.md)
