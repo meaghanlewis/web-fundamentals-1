@@ -12,6 +12,7 @@ Have you been looking for a way to break into the web development industry as a 
 |1:00	|Plotting Your Blocks
 |2:00	|Capstone Project: Portfolio
 |3:45	|Wrap-up Next Steps
+
 ## Learning Pathways:		
 1. https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/		
 2. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/		
@@ -20,7 +21,7 @@ Have you been looking for a way to break into the web development industry as a 
 
 ## Workshop requirements
 
-If you wish to follow along, there's a few steps you'll need to complete to configure your system. We've got a full [setup guide](./setup.md) for you to use!
+This workshop can be completed online however we do suggest all participants use the [Visual Studio Code website](https://code.visualstudio.com/) to acquire a free copy of this code editor.
 
 ## Course modules
 

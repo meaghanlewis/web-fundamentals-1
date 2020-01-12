@@ -8,4 +8,4 @@
 6. [Forms in your Webpages](./forms.md)
 7. [Optional: Tips for Success with HTML](./tips_for_html.md)
 
-####[Goto Part 3 of the workshop](./)
+[Goto Part 3 of the workshop](./)
