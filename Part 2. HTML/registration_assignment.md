@@ -24,3 +24,5 @@ You'll get to use forms in one way or another in almost every assignment for the
 Need a place to work on this? You can do this activity here in this [HTML environment.](https://codepen.io/dannyooooo/pen/GRgdYME)
 
 [When you've completed this assignment, check out this important tips!](./tips_for_html.md)
+
+#### [NEXT: Part 3 of the Workshop.](./Part%203.%20CSS%20%26%20CSS3)

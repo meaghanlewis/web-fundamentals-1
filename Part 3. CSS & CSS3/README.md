@@ -9,4 +9,4 @@
 8. [Box Model](./box_model.md)
 9. [Activity: Plotting Your Blocks](./plotting_your_blox.md)
 
-[Goto Part 4 of the workshop](../Part%202.%20HTML)
+[Goto Part 4. of the workshop](../Part%204.%20HTML)
