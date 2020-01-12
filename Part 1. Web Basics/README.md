@@ -5,4 +5,4 @@
 3. [What does "full stack" mean?](./full_stack.md)
 4. [Install Visual Studio Code and other tools](./environment.md)
 
-####[Goto Part 2 of the workshop](./)
+####[Goto Part 2 of the workshop](../Part%202.%20HTML)
