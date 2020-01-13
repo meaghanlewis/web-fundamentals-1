@@ -22,6 +22,6 @@ The Database is the final component of full stack development. The database is s
 
 ** Checkpoint **
 
-If you've already installed your code editor, [go ahead and move to the next section, you've completed this first part](./#). Take a break or wait for instructions from your instructor.
+If you still need a code editor [Click here to install Visual Studio Code.](https://code.visualstudio.com/).
 
-If you still need an editor [move on to the next page here.](./environment.md).
+##### NEXT: 2. [Part 2. HTML: Programming the Web](../Part%202.%20HTML)

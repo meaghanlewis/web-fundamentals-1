@@ -35,4 +35,4 @@ Localhost is the perfect tool for developers building web applications because i
 
 ![](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3935/handouts/chapter3935_7126_localhost.jpg)
 
-Next, on to learning about [the Request and Response Cycle.](./req_resp.md)
+##### Next: [Request and Response Cycle.](./req_resp.md)
