@@ -3,15 +3,16 @@
 Have you been looking for a way to break into the web development industry as a web developer, designer, or web programmer? The Web Development Fundamentals 1 Workshop is designed to quickly introduce you to current web development technology and provide you with a solid foundation in HTML and CSS. You'll also learn exactly how the internet works; about clients, servers, protocols and the next steps you need to take you to the next level on the web. During the workshop you will create a static HTML web page that can be used as your first online portfolio.
 
 ## Schedule:
+
 |Hour|Topic
 |---|---|
 |10:00	|Web Development Keynote
-|10:30	|Part 1. Web Basics
-|11:00  |Part 2. HTML: Programming the Web
+|10:30	|[Part 1. Web Basics](../Part%201.%20Web%20Basics)
+|11:00  |[Part 2. HTML: Programming the Web](../Part%202.%20HTML)
 |12:00	|Lunch + Survey
-|12:30	|Part 3. CSS: Selectors, Styling, and Display
-|1:00	|Part 4. Deployment with Azure
-|2:00	|Capstone Project: Portfolio
+|12:30	|[Part 3. CSS: Selectors, Styling, and Display](../Part%203.%20CSS%20%26%20CSS3)
+|1:00	|[Part 4. Deployment with Azure](../Part%204.%20%20Web%20Publishing)
+|2:00	|[Part 5. Capstone: Portfolio](../Part%205.%20Capstone)
 |3:45	|Wrap-up Next Steps
 
 ## Learning Pathways:		
