@@ -2,7 +2,7 @@
 
 Now that you have learned how to manipulate and program in HTML and CSS. Let's take some time to develop our own webpage from a HTML template.
 
-![Sample Capstone](./images/sample_capstone.png)
+![Sample Capstone](../images/sample_capstone.png)
 
 ###### [You can view a live version of the website here.](https://cs28156a2b80b43x4d02x8a8.z13.web.core.windows.net/#)
 
