@@ -17,5 +17,5 @@ Once the **server** receives the client's request, given that the server approve
 ![](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3935/handouts/chapter3935_7113_client-server.jpg)
 
 
-##### NEXT: [Full Stack Web Development](./full_stack.md)
+#### NEXT: [Full Stack Web Development](./full_stack.md)
 
