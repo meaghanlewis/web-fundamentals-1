@@ -32,7 +32,7 @@ This workshop can be completed online however we do suggest all participants use
 ---
 ## Learning Pathways:
 If you'd like to explore more topics related to Azure and Web Development check out these other Microsoft 	
-1. [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)	
-2. [Deploy a Website with Azure Virtual Machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)	
-3. [C#: First Steps](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)	
-4. [Deploy a website with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)		
+* [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)	
+* [Deploy a Website with Azure Virtual Machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)	
+* [C#: First Steps](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)	
+* [Deploy a website with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)		
