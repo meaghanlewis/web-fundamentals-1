@@ -10,9 +10,8 @@ Have you been looking for a way to break into the web development industry as a 
 |10:30	|[Part 1. Web Basics](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
 |11:00  |[Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
 |12:00	|Lunch + Survey
-|12:30	|[Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
-|1:00	|[Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)
-|2:00	|[Part 5. Capstone: Portfolio](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%205.%20Capstone)
+|1:00	|[Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
+|2:00	|[Part 4. Capstone + Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Capstone%20%2B%20Deployment)
 |3:45	|Wrap-up Next Steps
 
 ## START HERE: [**Part 1. Web Basics**](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
