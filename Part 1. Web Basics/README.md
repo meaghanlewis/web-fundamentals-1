@@ -5,12 +5,12 @@
 3. [What does "full stack" mean?](./full_stack.md)
 4. [Install Visual Studio Code and other tools](./environment.md)
 
-#### Next: [Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
+#### Next: [Part 2. HTML: Programming the Web](../Part%202.%20HTML)
 
 
 ---
 ## Course modules
-* [Part 1. Web Basics](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
-* [Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
-* [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
-* [Part 4. Capstone + Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Capstone%20%2B%20Deployment)
+* [Part 1. Web Basics](../Part%201.%20Web%20Basics)
+* [Part 2. HTML: Programming the Web](../Part%202.%20HTML)
+* [Part 3. CSS: Selectors, Styling, and Display](../Part%203.%20CSS%20%26%20CSS3)
+* [Part 4. Capstone + Deployment with Azure](../Part%204.%20%20Capstone%20%2B%20Deployment)

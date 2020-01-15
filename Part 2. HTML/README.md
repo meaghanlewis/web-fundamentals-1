@@ -8,12 +8,12 @@
 6. [Forms in your Webpages](./forms.md)
 7. [Optional: Tips for Success with HTML](./tips_for_html.md)
 
-#### Next: [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
+#### Next: [Part 3. CSS: Selectors, Styling, and Display](../Part%203.%20CSS%20%26%20CSS3)
 
 
 ---
 ## Course modules
-* [Part 1. Web Basics](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
-* [Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
-* [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
-* [Part 4. Capstone + Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Capstone%20%2B%20Deployment)
+* [Part 1. Web Basics](../Part%201.%20Web%20Basics)
+* [Part 2. HTML: Programming the Web](../Part%202.%20HTML)
+* [Part 3. CSS: Selectors, Styling, and Display](../Part%203.%20CSS%20%26%20CSS3)
+* [Part 4. Capstone + Deployment with Azure](../Part%204.%20%20Capstone%20%2B%20Deployment)
