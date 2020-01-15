@@ -30,8 +30,9 @@ This workshop can be completed online however we do suggest all participants use
 4. [Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)
 5. [Part 5. Capstone: Portfolio](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%205.%20Capstone)
 ---
-## Learning Pathways:		
-1. https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/		
-2. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/		
-3. https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/		
-4. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/		
+## Learning Pathways:
+If you'd like to explore more topics related to Azure and Web Development check out these other Microsoft 	
+1. [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)	
+2. [Deploy a Website with Azure Virtual Machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)	
+3. [C#: First Steps](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)	
+4. [Deploy a website with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)		
