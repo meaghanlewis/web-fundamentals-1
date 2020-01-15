@@ -7,14 +7,14 @@ Have you been looking for a way to break into the web development industry as a 
 |Hour|Topic
 |---|---|
 |10:00	|Web Development Keynote
-|10:30	|[Part 1. Web Basics](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
-|11:00  |[Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
+|10:30	|[Part 1. Web Basics](Part%201.%20Web%20Basics)
+|11:00  |[Part 2. HTML: Programming the Web](Part%202.%20HTML)
 |12:00	|Lunch + Survey
-|1:00	|[Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
-|2:00	|[Part 4. Capstone + Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Capstone%20%2B%20Deployment)
+|1:00	|[Part 3. CSS: Selectors, Styling, and Display](Part%203.%20CSS%20%26%20CSS3)
+|2:00	|[Part 4. Capstone + Deployment with Azure](Part%204.%20%20Capstone%20%2B%20Deployment)
 |3:45	|Wrap-up Next Steps
 
-## START HERE: [**Part 1. Web Basics**](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
+## START HERE: [**Part 1. Web Basics**](Part%201.%20Web%20Basics)
 
 ## Workshop requirements
 
@@ -22,10 +22,10 @@ This workshop can be completed online however we do suggest all participants use
 
 ---
 ## Course modules
-* [Part 1. Web Basics](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
-* [Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
-* [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
-* [Part 4. Capstone + Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Capstone%20%2B%20Deployment)
+* [Part 1. Web Basics](Part%201.%20Web%20Basics)
+* [Part 2. HTML: Programming the Web](Part%202.%20HTML)
+* [Part 3. CSS: Selectors, Styling, and Display](Part%203.%20CSS%20%26%20CSS3)
+* [Part 4. Capstone + Deployment with Azure](Part%204.%20%20Capstone%20%2B%20Deployment)
 
 ## Learning Pathways:
 If you'd like to explore more topics related to Azure and Web Development check out these other Microsoft 	
