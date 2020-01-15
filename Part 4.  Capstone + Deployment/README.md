@@ -1,4 +1,4 @@
-# Part 4. CSS & CSS3
+# Part 4. Capstone + Deployment with Azure
 
 1. [Start Here: Capstone Project](./capstone.md)
 2. [Deployment using Azure Storage](./deploy.md)
