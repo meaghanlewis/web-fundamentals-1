@@ -26,9 +26,8 @@ This workshop can be completed online however we do suggest all participants use
 * [Part 1. Web Basics](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
 * [Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
 * [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
-* [Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)
-* [Part 5. Capstone: Portfolio](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%205.%20Capstone)
----
+* [Part 4. Capstone + Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Capstone%20%2B%20Deployment)
+
 ## Learning Pathways:
 If you'd like to explore more topics related to Azure and Web Development check out these other Microsoft 	
 * [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)	

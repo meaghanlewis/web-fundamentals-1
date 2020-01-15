@@ -72,4 +72,4 @@ While you do this activity, please use min-height as well as vertical align to g
 ##### [Or, you can complete the activity online: Click Here](https://codepen.io/dannyooooo/pen/100311ce217467fbcf13862a5090012b)
 
 
-#### NEXT: [Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)
+#### NEXT: [Part 4. Capstone + Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Capstone%20%2B%20Deployment)
