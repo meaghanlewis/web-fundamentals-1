@@ -8,6 +8,7 @@
 7. [The Display Property](./display_property.md)
 8. [Box Model](./box_model.md)
 9. [Activity: Plotting Your Blocks](./plotting_your_blox.md)
+10 [Optional Activity: Dojo Diner](./dojo-diner.md)
 
 #### NEXT: [Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)
 
