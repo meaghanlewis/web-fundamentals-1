@@ -15,16 +15,11 @@ Have you been looking for a way to break into the web development industry as a 
 |2:00	|[Part 5. Capstone: Portfolio](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%205.%20Capstone)
 |3:45	|Wrap-up Next Steps
 
-## Learning Pathways:		
-1. https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/		
-2. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/		
-3. https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/		
-4. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/		
+## START HERE: [**Part 1. Web Basics**](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
 
 ## Workshop requirements
 
 This workshop can be completed online however we do suggest all participants use the [Visual Studio Code website](https://code.visualstudio.com/) to acquire a free copy of this code editor.
-
 
 ---
 ## Course modules
@@ -34,3 +29,9 @@ This workshop can be completed online however we do suggest all participants use
 3. [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
 4. [Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)
 5. [Part 5. Capstone: Portfolio](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%205.%20Capstone)
+---
+## Learning Pathways:		
+1. https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/		
+2. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/		
+3. https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/		
+4. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/		
