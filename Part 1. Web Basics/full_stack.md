@@ -1,6 +1,6 @@
 # What does "full stack" mean?
 
-A full stack web developer is someone who can create web applications from start to finish on both the "front and back ends" of a web application. The term is vague so let's add a little context to the term. A web programmer/developer is going to have to know more than just how to work with one technology or language. Employers today want skills that go beyond mastering HTML and CSS. Developers need to know how to program browsers, servers and databases. Let's cover a bit of it here, this should be review for most of us.
+A full stack web developer is someone who can create web applications from start to finish on both the "front and back ends" of a web application. The term is vague so let's add a little context to the term. A web programmer/developer is going to have to know more than just how to work with one technology or language. Employers today want skills that go beyond mastering HTML and CSS. Developers need to know how to program browsers, servers and databases. 
 
 ## The Front End
 
@@ -16,7 +16,7 @@ The Back End, also referred to as the **server-side**, is where all (not really 
 
 ## The Database
 
-The Database is the final component of full stack development. The database is simply a collection of information that is organized so that it can easily be accessed, managed, and updated. When you register an account for a new website or mobile application, you are essentially **creating a new entry** in that application's database. If you decide to update your password, you are essentially **updating the password column** in that application's database. SQL (Structured Query Language) is a standard language for making interactive queries from a database. There are relational databases, non-relational databases, NoSQL databases, ORMs (Object Relational Mappings), but more on those in your upcoming stacks!
+The Database is the final component of full stack development. The database is simply a collection of information that is organized so that it can easily be accessed, managed, and updated. When you register an account for a new website or mobile application, you are essentially **creating a new entry** in that application's database. If you decide to update your password, you are essentially **updating the password column** in that application's database. SQL (Structured Query Language) is a standard language for making interactive queries from a database. There are relational databases, non-relational databases, NoSQL databases, and ORMs (Object Relational Mappings).
 
 ![](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3935/handouts/chapter3935_7117_database-erd.png)
 

@@ -23,16 +23,16 @@ Let's look at this page for examples. At the top of the page, you see "Common Bo
 Any chunk of text is a paragraph and, therefore, needs to be encapsulated in paragraph ```<p>``` tags.
 
 Here's an example of how to use ```<p>``` tags:
-
+```
 <p>
-velit lectus, ut congue ligula molestie nec. Fusce a facilisis risus. Nullam
+ velit lectus, ut congue ligula molestie nec. Fusce a facilisis risus. Nullam
  id magna semper, semper eros quis, varius velit. Duis sagittis porta enim ac
  mattis. Cum sociis natoque penatibus et magnis dis parturient montes, nascet
  ur ridiculus mus. Donec sodales lorem id orci blandit, ac tincidunt lorem po
  rta. Sed euismod a arcu sed mollis.
  </p>
  
- <p>
+<p>
  Maecenas imperdiet risus at nisl aliquet, eu ullamcorper enim imperdiet. Sed
  id metus consectetur, sollicitudin eros at, dapibus ipsum. Morbi cursus nibh
  sit amet porta fringilla. Nam egestas nisi dui, a varius lectus egestas non.
@@ -42,10 +42,10 @@ velit lectus, ut congue ligula molestie nec. Fusce a facilisis risus. Nullam
  mperdiet eros, ac porta ligula ullamcorper in. Suspendisse nulla urna, facil
  isis non nunc ut, faucibus condimentum leo.
  </p>
-
+```
 ## Images
 
-There are two ways that we use images on a web page: as page elements (such as album art in Pandora, or the photos in your Facebook feed), or as background images (this is covered in CSS section).
+There are two ways that we use images on a web page: as page elements (such as album art on your favorite music sharing site, or the photos in your LinkedIn feed), or as background images (this is covered in CSS section).
 
 For embedding images as page elements you use the ```<img>``` tag. This tag is special and does not require a closing tag like other tags. It's considered a "self-closing tag". ```<img src="[location of the image goes here]" alt="[This is a description of the image]">```
 
@@ -56,14 +56,14 @@ It has two required attributes: ```src``` and ```alt```.  The ```src``` attribut
 ## Links
 Links are things that we click on that redirect us to another page. Usually, links are in text format, but you can also use an image as a link.
 
-The tag used for links is the <a> tag, which stands for the anchor tag. Similar to images, links also need to have an attribute that tells the browser where the link is pointing. For links, this is called the href attribute.
+The tag used for links is the `<a>` tag, which stands for the anchor tag. Similar to images, links also need to have an attribute that tells the browser where the link is pointing. For links, this is called the href attribute.
 
 Possible values for the href attribute are:
 
 An absolute URL - points to another website (like ```href="http://www.example.com/default.html"```)
 
-* A relative URL - points to a file within a website (like href="default.html")
-* An anchor URL - points to an anchor inside a page (like href="#top")
+* A relative URL - points to a file within a website (like `href="default.html"`)
+* An anchor URL - points to an anchor inside a page (like `href="#top"`)
 
 Example:
 ```
@@ -86,7 +86,8 @@ So what's a list for our HTML scripting purposes?
 
 It is any collection of elements that are of the same type. The most common use for lists in HTML is for navigation links.
 
-There are two types of HTML lists: ordered lists (lists that are numbered) and unordered lists. Ordered lists use the <ol> tag, and unordered lists use the <ul> tag. Both lists use the <li> tag to describe each list item.
+There are two types of HTML lists: ordered lists (lists that are numbered) and unordered lists. Ordered lists use the `<ol>` tag, and unordered lists use the `<ul>` tag. Both lists use the `<li>` tag to describe each list item.
+
 ```
 <ul>
     <li>

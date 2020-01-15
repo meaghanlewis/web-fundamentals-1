@@ -5,7 +5,7 @@ In this chapter, we will be covering 2 very important concepts: Indentation and 
 Consider the following example:
 
 > **_Bacon Ipsum, Dolor Amet?_**
-Bacon ipsum dolor amet tail salami ball tip leberkas venison. Pig pork loin shoulder pork fatback corned beef chuck shank drumstick cow doner cupim capicola. Swine beef ground round, kielbasa meatball doner jowl rump chuck pastrami venison spare ribs turducken sirloin sausage. Sausage venison doner brisket, andouille pork pastrami strip steak drumstick tri-tip cupim.<br>
+Bacon ipsum dolor amet tail salami ball tip leberkas venison. Pig pork loin shoulder pork fatback corned beef chuck shank drumstick cow doner cupim capicola. Swine beef ground round, kielbasa meatball doner jowl rump chuck pastrami venison spare ribs turducken sirloin sausage. Sausage venison doner brisket, andouille pork pastrami strip steak drumstick tri-tip cupim.
 
 Notice how the header is centered in the middle of the page. Also notice that the first word at the beginning of the paragraph is indented a few spaces over. As programmers, we also want our co-programmers to distinguish where our
  ```code block``` ends and the next begins. 
@@ -45,7 +45,7 @@ Simple answer: **NO.**
 ![](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_2135/handouts/chapter2135_3250_what.jpeg)
 
 Remember, we don't indent our code by our website's
-  _content,_ we indent them via the HTML tag's **parent, child, sibling relationship**. So how did we get the title centered? Good question! That'll require some CSS and we'll be learning all about positioning tomorrow. For now, just understand that indentation is determined by the PCS relationship, _not_by how we want the HTML to be visually rendered on the browser.
+  _content,_ we indent them via the HTML tag's **parent, child, sibling relationship**. So how did we get the title centered? Good question! That'll require some CSS that we will be going over in part three of the workshop. For now, just understand that indentation is determined by the PCS relationship, _not_by how we want the HTML to be visually rendered on the browser.
 
 ## What is the HTML PCS Relationship?
 

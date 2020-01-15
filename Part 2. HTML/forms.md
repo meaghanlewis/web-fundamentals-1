@@ -1,11 +1,11 @@
 # Forms
 Forms are one of the most important HTML tags you will learn. They are responsible for all the data exchange between the user (front-end) and the server (back-end). So it's very important that you have a good understanding of how to build them.
 
-A form's job is to take in user input and send it to the back-end to be processed. A form is declared by using the <form> tag, which will have attributes action and method that decide where the form information gets sent, and how it gets sent respectively. (Don't worry about the values we're using for these attributes yet, this is covered during your first stack.)
+A form's job is to take in user input and send it to the back-end to be processed. A form is declared by using the `<form>` tag, which will have attributes action and method that decide where the form information gets sent, and how it gets sent respectively. [Learn more about forms and attributes here.](https://www.w3schools.com/htmL/html_forms.asp)
 
-Taking in the input is done by using input fields, usually designated by the <input> tag. Depending on the type of information required, the way in which we take in the information may be different. This is sometimes designated by a type attribute, and other times by a different tag. Each input will typically also have a label (<label>) that is the name of the field. To make sure that a specific label is linked/associated to a specific input element, we must add corresponding for attribute on the label with input's id attribute. Including a label tag around the input field is a convention that allows us to click on the label to focus on the input field.
+Taking in the input is done by using input fields, usually designated by the `<input>` tag. Depending on the type of information required, the way in which we take in the information may be different. This is sometimes designated by a type attribute, and other times by a different tag. Each input will typically also have a label (`<label>`) that is the name of the field. To make sure that a specific label is linked/associated to a specific input element, we must add corresponding for attribute on the label with input's id attribute. Including a label tag around the input field is a convention that allows us to click on the label to focus on the input field.
 
-A name attribute also will typically go hand in hand with your input tags. They are used mainly for sending form data to the back end so don't worry about the name attribute for now. It will be explained further in your first stack.
+A name attribute also will typically go hand in hand with your input tags. They are used mainly for sending form data that the user enters in your form. You need the name attribute to reference that field in your form in other parts of your HTML.
 
 Let's look at what input types would be used in the following circumstances:
 

@@ -18,9 +18,9 @@ Block elements: ```<body>, <div>, <form>, <h1>-<h6>, <p>, <table>, <ul>, <ol>, <
 
 Ex:
 Not valid:
-```<a href="http://www.google.com">www.google.com<h1>Google</h1></a>```
+```<a href="http://www.bing.com">www.bing.com<h1>Bing Search</h1></a>```
 Valid:
-```<h1><a href="http://www.google.com">Google</a></h1>```
+```<h1><a href="http://www.bing.com">Bing Search</a></h1>```
 
 We can, however, change the default display style of HTML elements using CSS and the  **display property**. The possible values for display are: **inline, block, none, and inline-block**.
 

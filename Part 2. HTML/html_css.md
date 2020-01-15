@@ -14,7 +14,7 @@ HyperText Markup Language (HTML) is the main markup language for all web pages. 
 
 HTML is the language of the Web. It stands for Hypertext Markup Language.
 
-Its purpose is to let us communicate with the browser the meaning of the content that we wish to place on a web page. To achieve this, HTML defines a number of **tags**that we can wrap the contents with.
+Its purpose is to let us communicate with the browser the meaning of the content that we wish to place on a web page. To achieve this, HTML defines a number of **tags** that we can wrap the contents with.
 
 * Headings and paragraphs of text
 * Images
@@ -23,7 +23,7 @@ Its purpose is to let us communicate with the browser the meaning of the content
 * Tables
 * Forms
 
-HTML tags **describe the content they contain.**For example, there are paragraph tags for paragraphs, anchor tags for links, etc. **The browser does not display the HTML tags** but uses the tags to interpret the content of the page.
+HTML tags describe the content they contain. For example, there are paragraph tags for paragraphs, anchor tags for links, etc. The browser does not display the HTML tags but uses the tags to interpret the content of the page.
 
 ### Why HTML and CSS
 
