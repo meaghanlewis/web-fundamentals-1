@@ -8,14 +8,13 @@
 6. [Forms in your Webpages](./forms.md)
 7. [Optional: Tips for Success with HTML](./tips_for_html.md)
 
-[Goto Part 3. of the workshop](./Part%203.%20CSS%20%26%20CSS3)
+#### Next: [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
 
 
 ---
 ## Course modules
-
-1. [Part 1. Web Basics](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
-2. [Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
-3. [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
-4. [Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)
-5. [Part 5. Capstone: Portfolio](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%205.%20Capstone)
+* [Part 1. Web Basics](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%201.%20Web%20Basics)
+* [Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)
+* [Part 3. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%203.%20CSS%20%26%20CSS3)
+* [Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)
+* [Part 5. Capstone: Portfolio](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%205.%20Capstone)

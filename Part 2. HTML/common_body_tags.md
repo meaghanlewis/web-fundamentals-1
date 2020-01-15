@@ -142,5 +142,5 @@ Example:
 
 Copy and paste this into your code editor and see what happens!
 
-[Now we are ready to move onto Forms!](./forms.md)
+#### NEXT: [Forms](./forms.md)
 

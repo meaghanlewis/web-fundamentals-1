@@ -67,6 +67,9 @@ Try to duplicate the image below by adjusting the CSS code provided. Use **_marg
 ```
 
 
-While you do this assignment, please use min-height as well as vertical align to give minimum height to the division and also to vertically align some of the inline-blocks. Also, please do NOT use float (use display:inline-block instead).
+While you do this activity, please use min-height as well as vertical align to give minimum height to the division and also to vertically align some of the inline-blocks. Also, please do NOT use float (use display:inline-block instead).
 
-##### [Complete the activity online: Click Here](https://codepen.io/dannyooooo/pen/100311ce217467fbcf13862a5090012b)
+##### [Or, you can complete the activity online: Click Here](https://codepen.io/dannyooooo/pen/100311ce217467fbcf13862a5090012b)
+
+
+#### NEXT: [Part 4. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%204.%20%20Web%20Publishing)

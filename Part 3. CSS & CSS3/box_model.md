@@ -1,8 +1,6 @@
 # Box Model - Margin, Border, Padding
 
-*Copy of the code demonstrated above can be downloaded [here (layouts.zip)](http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_2135/handouts/chapter2135_3329_layouts.zip).
-
-All web layouts are accomplished with block elements. Designers use blocks, most often <div> elements, to create rectangular areas into which all content fits. There are only three rules:
+All web layouts are accomplished with block elements. Designers use blocks, most often `<div>` elements, to create rectangular areas into which all content fits. There are only three rules:
 
 * **Total area**: the space an element occupies _and_ affects.
 * **Float, clear and overflow**

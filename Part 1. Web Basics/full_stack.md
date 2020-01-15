@@ -24,4 +24,4 @@ The Database is the final component of full stack development. The database is s
 
 If you still need a code editor [Click here to install Visual Studio Code.](https://code.visualstudio.com/).
 
-##### NEXT: 2. [Part 2. HTML: Programming the Web](../Part%202.%20HTML)
+##### NEXT: [Part 2. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-1/tree/master/Part%202.%20HTML)

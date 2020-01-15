@@ -156,6 +156,6 @@ Most CSS frameworks (especially on Twitter Bootstrap), use the label-input pairi
 ```
 Notice that the input element is now nested inside the label element and we no longer need to link the two using the label's for attribute and the input's id attribute.
 
-[Activity: Registration Page](./registration_assignment.md)
+#### NEXT: [Activity: Registration Page](./registration_assignment.md)
 
 
