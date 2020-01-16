@@ -28,7 +28,7 @@ This workshop can be completed online however we do suggest all participants use
 * [Part 4. Capstone + Deployment with Azure](Part%204.%20%20Capstone%20%2B%20Deployment)
 
 ## Learning Pathways:
-If you'd like to explore more topics related to Azure and Web Development check out these other Microsoft 	
+To extend your knowledge and explore more topics related to Azure and Web Development, work through these other Microsoft learning resources:	
 * [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)	
 * [Deploy a Website with Azure Virtual Machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)	
 * [C#: First Steps](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)	
