@@ -18,7 +18,7 @@ Have you been looking for a way to break into the web development industry as a 
 
 ## Workshop requirements
 
-This workshop can be completed online however we do suggest all participants use the [Visual Studio Code website](https://code.visualstudio.com/) to acquire a free copy of this code editor.
+This workshop can be completed online however we do suggest all participants use the [Visual Studio Code website](https://code.visualstudio.com/?WT.mc_id=academic-0000-molewis) to acquire a free copy of this code editor.
 
 ---
 ## Course modules
@@ -29,7 +29,7 @@ This workshop can be completed online however we do suggest all participants use
 
 ## Learning Pathways:
 To extend your knowledge and explore more topics related to Azure and Web Development, work through these other Microsoft learning resources:	
-* [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)	
-* [Deploy a Website with Azure Virtual Machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)	
-* [C#: First Steps](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)	
-* [Deploy a website with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)		
+* [Azure Fundamentals](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=academic-0000-molewis)	
+* [Deploy a Website with Azure Virtual Machines](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-virtual-machines/?WT.mc_id=academic-0000-molewis)	
+* [C#: First Steps](https://docs.microsoft.com/learn/paths/csharp-first-steps/?WT.mc_id=academic-0000-molewis)	
+* [Deploy a website with Azure App Service](https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/?WT.mc_id=academic-0000-molewis)		
